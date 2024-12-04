@@ -50,23 +50,7 @@ public class EscrowStack {
 			
 		}
 		}
-		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		driver.quit();	
 		
 	}
 
